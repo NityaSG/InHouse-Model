@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m py_compile api.py classifiers/__init__.py classifiers/gender.py classifiers/category.py classifiers/image_loader.py)"
+    ]
+  }
+}
